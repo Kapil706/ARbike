@@ -1,2 +1,15 @@
 # ARbike
 This is the intelligent bike that i and my friend designed this year TATA CRUCIBLE HACKATHON. We stood all india 5th position.
+
+This is the bike equipped with iot devices that senses data through various sensors incorporated in the bike and then send it to
+mobile windows phone via bluetooth connectivity and then it send to cloud where all necessary work is done and then information 
+is processed and it sent to mobile application so that user can see what is the present state of particular device.
+Now we can also want to make this project as digital twin using androdi AR core.
+
+
+some of the images are 
+
+![](image/IMG_20180323_152207.jpg)
+![](image/MotorbikeProject_bb.png)
+![](image/IMG_20180323_152134.jpg)
+![](image/IMG_20180323_121228.jpg)
